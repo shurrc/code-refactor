@@ -9,8 +9,3 @@ This website was built locally in VS code, and from there uploaded to Github Pag
 
 ## Authors and acknowledgment
 Horiseon
-
-## License
-For open source projects, say how it is licensed.
-
-
